@@ -1,0 +1,50 @@
+************************************************     H E R E   A R E   T H E   R U L E S     ************************************ *************
+
+
+                                                                Uno Game Rules:
+
+        1/ Objective:
+
+               The objective of Uno is to be the first player to get rid of all your cards.
+
+        2/Players:
+
+              Uno can be played by 2 or more players.
+
+
+       3/ Gameplay:
+
+             Players take turns clockwise, starting from the dealer.
+
+             On your turn, you must play a card from your hand that matches the top card of the discard stack in either number, color, or symbol.
+
+             If you don't have a playable card, you must draw a card from the draw stack. If the drawn card is playable, you can play it immediately.
+
+             Otherwise, your turn ends.
+
+       4/Special cards:
+
+
+           pass: Skips the next player's turn.
+
+           Reverse: Reverses the direction of play.
+
+          +2: Forces the next player to draw 2 cards and forfeit their turn.
+
+          +4 : Forces the next player to draw 4 cards .
+
+          The game continues until one player has no cards left.
+
+       5/robot choice:
+
+          if you're alone or you want to play alone you can select this choice to play with computers 
+
+
+        6/End of Game:
+
+           The first player to empty their hand of cards wins the game.
+
+
+                                                               **********************************
+***************************************************************        G O O D   L U C K         ****************************************************
+                                                               **********************************
